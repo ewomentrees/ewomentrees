@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "629237466508",
+    "firebase_url": "https://ewomen-trees.firebaseio.com",
+    "project_id": "ewomen-trees",
+    "storage_bucket": "ewomen-trees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629237466508:android:62f111c00b115f33a982a9",
+        "android_client_info": {
+          "package_name": "com.example.ewomentrees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629237466508-a3m90oo672nseme0ell2t6pdllkci365.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFHxi5CgrwfHUsK9fS_DgwuxM5X_3BCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629237466508-a3m90oo672nseme0ell2t6pdllkci365.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629237466508-jmq9o5nka8t8ogkelptfkb0pt4mknq32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ewomentrees"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
